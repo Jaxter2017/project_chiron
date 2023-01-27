@@ -5,8 +5,6 @@ Mission to see true active teaching made available to all students.
 
 I've collected 350 year 11 maths mock exams and conducted a series of investigations to better understand how large language models can be utilised in an education setting. Please see the [dataset page](https://github.com/Jaxter2017/project_chiron/wiki/Dataset) for the details on the data.
 
-![oof](docs/oof.png)
-
 ### BERT-based classifiers
 
 #### fine-tuning BERT
