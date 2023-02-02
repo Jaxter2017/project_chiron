@@ -7,7 +7,9 @@ I've collected 350 year 11 maths mock exams (UK based) and conducted a series of
 
 ### BERT-based classifiers
 
-#### fine-tuning BERT
+#### Sentence Embeddings
+
+A multitude of different pretrained transformers have been used to extract sentence level embeddings from the processed student problem attempts.
 
 #### classifier head
 
