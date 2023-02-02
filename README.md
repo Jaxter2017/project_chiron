@@ -7,9 +7,11 @@ I've collected 350 year 11 maths mock exams (UK based) and conducted a series of
 
 ### BERT-based classifiers
 
-#### Sentence Embeddings
+The end model here simply consists of a pretrained transformer model (which produces a layer of embeddings) with a multilayer perceptron classifier head. The classifier head is trained on the specific maths problem.
 
-A multitude of different pretrained transformers have been used to extract sentence level embeddings from the processed student problem attempts.
+#### Sentence embeddings
+
+A multitude of different pretrained transformers have been used to extract sentence level embeddings from the processed student problem attempts. Please see the [embeddings page](https://github.com/Jaxter2017/project_chiron/wiki/Embeddings) for more info on these models.
 
 #### classifier head
 
